@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dorian</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=q1zzu&label=Profile%20views&color=0e75b6&style=flat" alt="q1zzu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=q1zzu" alt="q1zzu" /></a> </p>
-
 - 🔭 I’m currently working on [ZetCraft.PL](https://zetcraft.pl)
 
 - 💬 Ask me about **java**
