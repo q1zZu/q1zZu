@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm q1zZ</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=q1zzu&label=Profile%20views&color=0e75b6&style=flat" alt="q1zzu" /> </p>
 
-- 🔭 I’m currently working on [ZetCraft.PL](https://zetcraft.pl) and [Q-CODES](https://discord.gg/WzM9TU4YvH)
-
-- 💬 Ask me about **Java**
+- 🔭 I’m currently working on [Q-CODES](https://discord.gg/WzM9TU4YvH)
 
 - 📫 Email: **q1zZ@zetcraft.pl**
 
